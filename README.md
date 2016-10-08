@@ -5,17 +5,17 @@ An API written with Node.js that enables developers to easily abstract binary to
 <h2>Usage</h2>
 <h3>URL</h3>
 ```
-https://hexapi.herokuapp.com/
+http://hexa-api.herokuapp.com/
 ```
 <h3>Parameters</h3>
 The parameter for the binary string is required in order to retrieve a valid response.
 
 <h3>Example Request</h3>
 ```
-https://hexapi.herokuapp.com/11101100101001
+http://hexa-api.herokuapp.com/11101100101001
 ```
 
-<h2>Response Format</h2>
+<h3>Example Response</h3>
 ```
-{"binary": String, "hex": String}
+{"binary":"0100101000000001","hex":"4A01"}
 ```
