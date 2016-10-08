@@ -1,0 +1,20 @@
+{
+  "name": "hex",
+  "version": "1.0.0",
+  "description": "An API using Node.js that serves to convert binary strings to hexadecimal — Edit",
+  "main": "server.js",
+  "scripts": {
+	"start": "node server.js"
+  },
+  "author": "Jesse Cordeiro",
+  "license": "ISC",
+  "keywords": [
+    "binary",
+    "hexadecimal",
+	"api",
+	"conversion"
+  ],
+  "engines": {
+    "node": "6.3.1"
+  }
+}
