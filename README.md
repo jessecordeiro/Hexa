@@ -1,4 +1,4 @@
-<img src="http://i.imgur.com/cw3TD8x.png"/>
+<img src="http://i.imgur.com/MNFqNOi.png"/>
 
 An API written with Node.js that enables developers to easily abstract binary to hexadecimal conversions.
 
